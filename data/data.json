@@ -1,0 +1,72 @@
+[
+        {
+          "id": 1,
+          "title": "One Piece",
+          "description": "L'histoire suit principalement l'équipage de Chapeau de paille, mené par son capitaine Monkey D. Luffy, un jeune homme ayant mangé, enfant, sans le savoir le fruit du Gum Gum qui lui permet d'étirer ses membres, et dont le rêve est de devenir le Roi des pirates.",
+          "price": 7,
+          "image": "https://m.media-amazon.com/images/I/61a249sIzNL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Jujutsu Kaisen",
+          "description": "Le héros de Jujutsu Kaisen, Yuji Itadori, un lycéen, se retrouve confronté aux forces occultes et est enrôlé dans une école d'exorcisme le jour où il se voit possédé par le démon millénaire Ryomen Sukuna.",
+          "price": 9,
+          "image": "https://m.media-amazon.com/images/I/515EJYMDUVL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Attack on Titan",
+          "description": "Dans un monde ravagé par des titans mangeurs d'homme depuis plus d'un siècle, les rares survivants de l'Humanité n'ont d'autre choix pour survivre que de se barricader dans une cité-forteresse.",
+          "price": 9,
+          "image": "https://m.media-amazon.com/images/I/516FKAN4t7L._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Death Note",
+          "description": "Light Yagami, un jeune étudiant surdoué, ramasse un jour le 'Death Note', un carnet abandonné par un dieu de la mort, Ryuk, qui apparemment s'ennuyait dans son monde. Il suffit d'écrire le nom d'une personne dans ce carnet, et celle-ci meurt.",
+          "price": 8,
+          "image": "https://m.media-amazon.com/images/I/517iQsmCOML._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Dragon Ball",
+          "description": "L'histoire de Dragon Ball suit la vie de Son Goku, un garçon à la queue de singe inspiré du conte traditionnel chinois La Pérégrination vers l'Ouest. Son Goku est un jeune garçon simple d'esprit et pur doté d'une queue de singe et d'une force extraordinaire.",
+          "price": 7,
+          "image": "https://m.media-amazon.com/images/I/51doNJR9pTL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Bleach",
+          "description": "Adolescent de quinze ans, Ichigo Kurosaki possède un don particulier : celui de voir les esprits. Un jour, il croise la route d'une belle shinigami (un être spirituel) en train de pourchasser une “âme perdue”, un esprit maléfique qui hante notre monde et n'arrive pas à trouver le repos.",
+          "price": 6,
+          "image": "https://m.media-amazon.com/images/I/51o-LpI7geL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        },
+        {
+          "id": 7,
+          "title": "My Hero Academia",
+          "description": "Dans un monde où 80 % de la population possède un super-pouvoir appelé alter, les héros font partie de la vie quotidienne. Et les super-vilains aussi ! Face à eux se dresse l'invincible All Might, le plus puissant des héros ! Le jeune Izuku Midoriya en est un fan absolu.",
+          "price": 8,
+          "image": "https://m.media-amazon.com/images/I/51Vh+5ION1L._SY344_BO1,204,203,200_.jpg"
+        },
+        {
+          "id": 8,
+          "title": "JoJo's Bizarre Adventure",
+          "description": "En Angleterre, dans les années 1880, Jonathan, fils unique de la famille aristocrate Joestar, s'efforce de devenir un gentleman accompli. Son quotidien est bouleversé par l'adoption de Dio Brando, un jeune homme mystérieux du même âge.",
+          "price": 10,
+          "image": "https://m.media-amazon.com/images/I/51PPu8iEtML._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        },
+        {
+          "id": 9,
+          "title": "Hunter x Hunter",
+          "description": "Abandonné par son père qui est un Hunter, à la fois un aventurier et un chasseur de primes, Gon décide à l'âge de 12 ans de partir pour devenir un Hunter. Cela ne sera pas chose aisée, il devra passer une suite de tests et examens en compagnie de milliers d'autres prétendants au titre de Hunter",
+          "price":  7,
+          "image": "https://m.media-amazon.com/images/I/51RIN-6uJGL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        },
+        {
+          "id": 10,
+          "title": "Demon Slayer",
+          "description": "Le Japon, au début du XXe siecle. Un petit marchand de charbon nommé Tanjiro vit une vie sans histoire dans les montagnes. Jusqu'au jour tragique où, après une courte absence, il retrouve son village et sa famille massacrés par un ogre ! La seule survivante de cette tragédie est sa jeune sœur Nezuko.",
+          "price": 8,
+          "image": "https://m.media-amazon.com/images/I/51Ky6nqMXpL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        }
+]
